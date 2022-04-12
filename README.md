@@ -1,5 +1,5 @@
 # Geolocation
-Market analysis for QANDA, AI-based learning platform
+ Geolocation based Market analysis for QANDA, AI-based learning platform
 
 1. Objective
 - Confirming QANDA, Al-based learning platform user distribution in Latin America & The Caribbean based on user data for 5 weeks and identifying user's socio-economic status 
