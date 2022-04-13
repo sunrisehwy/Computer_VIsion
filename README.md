@@ -6,6 +6,7 @@
 - By identifying the socio-economic characteristics of the users, analyzing how the online learning app contributes to the reducing learning gap caused by a regional economic gap or education environment.
 
 2. Process
+
 (1)	Mass Data pre-processing and extracting geolocation information based on a recorded user dataset
 - Using Python, Exploratory data analysis, and null data handling 
 - Based on user IP address, extracting user location information by using geolocation databases 
