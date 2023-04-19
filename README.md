@@ -1,5 +1,6 @@
-# Geolocation
- Geolocation based Market analysis for QANDA, AI-based learning platform
+# Market data Analysis and Data Visualization Project with QANDA
+- Geolocation based Market analysis for QANDA, AI-based learning platform
+- Conducted in-depth analysis of a transaction dataset of 1M+ data points in Latin America & The Caribbean for 5 weeks, utilizing user data to identify potential users' socio-economic status and provide support to the go-to-market strategy
 
 1. Objective
 - Confirming QANDA, Al-based learning platform user distribution in Latin America & The Caribbean based on user data for 5 weeks and identifying user's socio-economic status 
